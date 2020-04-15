@@ -2,7 +2,7 @@
   "name": "react-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/kenta715/sample-page.git",
+  "homepage": "http://kenta715.github.io/react-pages",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
