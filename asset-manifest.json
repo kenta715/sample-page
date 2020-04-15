@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kenta715/sample-page.git/static/css/main.d1b05096.chunk.css",
+    "main.js": "/kenta715/sample-page.git/static/js/main.51852e77.chunk.js",
+    "main.js.map": "/kenta715/sample-page.git/static/js/main.51852e77.chunk.js.map",
+    "runtime-main.js": "/kenta715/sample-page.git/static/js/runtime-main.f277f40b.js",
+    "runtime-main.js.map": "/kenta715/sample-page.git/static/js/runtime-main.f277f40b.js.map",
+    "static/js/2.947cfc0d.chunk.js": "/kenta715/sample-page.git/static/js/2.947cfc0d.chunk.js",
+    "static/js/2.947cfc0d.chunk.js.map": "/kenta715/sample-page.git/static/js/2.947cfc0d.chunk.js.map",
+    "index.html": "/kenta715/sample-page.git/index.html",
+    "precache-manifest.c8df64ba2854b655877d2e3235948f13.js": "/kenta715/sample-page.git/precache-manifest.c8df64ba2854b655877d2e3235948f13.js",
+    "service-worker.js": "/kenta715/sample-page.git/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/kenta715/sample-page.git/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.947cfc0d.chunk.js.LICENSE.txt": "/kenta715/sample-page.git/static/js/2.947cfc0d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kenta715/sample-page.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f277f40b.js",
+    "static/js/2.947cfc0d.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.51852e77.chunk.js"
+  ]
+}
